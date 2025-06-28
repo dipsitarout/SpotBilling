@@ -24,7 +24,7 @@ The TPCODL Spot Billing App is a comprehensive mobile solution designed for elec
 <div align="center">
   <img src="https://img.icons8.com/fluency/96/lightning-bolt.png" alt="Lightning" width="60"/>
   <img src="https://img.icons8.com/fluency/96/mobile-payment.png" alt="Mobile Payment" width="60"/>
-  <img src="https://img.icons8.com/fluency/96/notification.png" alt="Notification" width="60"/>
+
   <img src="https://img.icons8.com/fluency/96/database.png" alt="Database" width="60"/>
 </div>
 
@@ -350,7 +350,7 @@ This project is proprietary software developed for TPCODL.
 *Empowering efficient electricity billing management through innovative mobile technology*
 
 <img src="https://img.icons8.com/fluency/48/lightning-bolt.png" alt="Lightning"/>
-<img src="https://img.icons8.com/fluency/48/mobile-app.png" alt="Mobile App"/>  
+
 <img src="https://img.icons8.com/fluency/48/innovation.png" alt="Innovation"/>
 
 ---
