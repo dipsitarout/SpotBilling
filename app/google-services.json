@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835139762536",
+    "project_id": "tpcodl-e386c",
+    "storage_bucket": "tpcodl-e386c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835139762536:android:277435f5aa6dc975d9fedd",
+        "android_client_info": {
+          "package_name": "com.example.kotlincourse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq3sT7lhQndM48Iqu-jFfT1o0ORb_wSAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
